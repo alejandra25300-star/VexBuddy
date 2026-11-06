@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b6459ee7a754ad7408c9f54d14894736
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410388
+  packageName: Crystal Caverns 2D Environment Pack
+  packageVersion: 1.0.0.1
+  assetPath: Assets/Gamelauncher Studio/Crystal Caverns 2D Environment Pack/Environment/Cave/Animation
+    & Prefab/animation/Candle Stand.anim
+  uploadId: 1002640

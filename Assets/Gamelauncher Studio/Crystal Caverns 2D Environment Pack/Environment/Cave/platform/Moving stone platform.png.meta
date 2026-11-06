@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 8105dcc960257d347981c865a3f6002d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7314109576470539217
+    second: Moving stone platform_0
+  - first:
+      213: 80068307176122168
+    second: Moving stone platform_1
+  - first:
+      213: 6398307396385980300
+    second: Moving stone platform_2
+  - first:
+      213: 8624754074290709121
+    second: Moving stone platform_3
+  - first:
+      213: 6222443971119786461
+    second: Moving stone platform_4
+  - first:
+      213: -6458106962936043808
+    second: Moving stone platform_5
+  - first:
+      213: -2780045892769223935
+    second: Moving stone platform_6
+  - first:
+      213: -5821999010304921969
+    second: Moving stone platform_7
+  - first:
+      213: 1601752805379936325
+    second: Moving stone platform_8
+  - first:
+      213: 9118620152356644213
+    second: Moving stone platform_9
+  - first:
+      213: 8322189563080314608
+    second: Moving stone platform_10
+  - first:
+      213: 8106263821896477061
+    second: Moving stone platform_11
+  - first:
+      213: -709522624670520771
+    second: Moving stone platform_12
+  - first:
+      213: 4128888161640489784
+    second: Moving stone platform_13
+  - first:
+      213: 8665813767185189835
+    second: Moving stone platform_14
+  - first:
+      213: -8666863510590533216
+    second: Moving stone platform_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moving stone platform_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 23
+        width: 1622
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24d03e87101f7a90800000000000000
+      internalID: -7314109576470539217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 650
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837effe73b57c1100800000000000000
+      internalID: 80068307176122168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_2
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 646
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f37556daa5bc850800000000000000
+      internalID: 6398307396385980300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_3
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 654
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1826339722841b770800000000000000
+      internalID: 8624754074290709121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 646
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9ad55e2df8a5650800000000000000
+      internalID: 6222443971119786461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 642
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e668b80fe13066a0800000000000000
+      internalID: -6458106962936043808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_6
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 634
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10be4366dfa4b69d0800000000000000
+      internalID: -2780045892769223935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_7
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 636
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e69141fba143fa0800000000000000
+      internalID: -5821999010304921969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_8
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 638
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54018a6a0b19a3610800000000000000
+      internalID: 1601752805379936325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_9
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 609
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575afee47b8db8e70800000000000000
+      internalID: 9118620152356644213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_10
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 598
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe8dd4905b5e7370800000000000000
+      internalID: 8322189563080314608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_11
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 602
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896db74ffb3f7070800000000000000
+      internalID: 8106263821896477061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_12
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 612
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a296c9ee44726f0800000000000000
+      internalID: -709522624670520771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 144
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a5ef38e1cc4930800000000000000
+      internalID: 4128888161640489784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_14
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 131
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb43c235b7234870800000000000000
+      internalID: 8665813767185189835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving stone platform_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1d47e5e8d19b780800000000000000
+      internalID: -8666863510590533216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moving stone platform_0: -7314109576470539217
+      Moving stone platform_1: 80068307176122168
+      Moving stone platform_10: 8322189563080314608
+      Moving stone platform_11: 8106263821896477061
+      Moving stone platform_12: -709522624670520771
+      Moving stone platform_13: 4128888161640489784
+      Moving stone platform_14: 8665813767185189835
+      Moving stone platform_15: -8666863510590533216
+      Moving stone platform_2: 6398307396385980300
+      Moving stone platform_3: 8624754074290709121
+      Moving stone platform_4: 6222443971119786461
+      Moving stone platform_5: -6458106962936043808
+      Moving stone platform_6: -2780045892769223935
+      Moving stone platform_7: -5821999010304921969
+      Moving stone platform_8: 1601752805379936325
+      Moving stone platform_9: 9118620152356644213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410388
+  packageName: Crystal Caverns 2D Environment Pack
+  packageVersion: 1.0.0.1
+  assetPath: Assets/Gamelauncher Studio/Crystal Caverns 2D Environment Pack/Environment/Cave/platform/Moving
+    stone platform.png
+  uploadId: 1002640

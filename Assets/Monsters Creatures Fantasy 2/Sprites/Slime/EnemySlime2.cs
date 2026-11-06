@@ -74,7 +74,7 @@ public class EnemySlime2 : MonoBehaviour
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
 
         if (animator != null)
-            animator.SetFloat("Speed", 0);
+            animator.SetFloat("Speed", 27);
     }
 
     void Atacar()
@@ -122,7 +122,7 @@ public class EnemySlime2 : MonoBehaviour
         if (!yaGolpeo)
         {
             yaGolpeo = true;
-            p.RecibirDano(27, 20f);
+            p.RecibirDano(27, 38f);
         }
     }
 

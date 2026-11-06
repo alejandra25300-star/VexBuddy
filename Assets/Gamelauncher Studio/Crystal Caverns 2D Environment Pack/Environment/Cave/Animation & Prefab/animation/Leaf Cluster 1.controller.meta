@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 679ef6d6e44b59f4886f8707b5c0b02e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410388
+  packageName: Crystal Caverns 2D Environment Pack
+  packageVersion: 1.0.0.1
+  assetPath: Assets/Gamelauncher Studio/Crystal Caverns 2D Environment Pack/Environment/Cave/Animation
+    & Prefab/animation/Leaf Cluster 1.controller
+  uploadId: 1002640

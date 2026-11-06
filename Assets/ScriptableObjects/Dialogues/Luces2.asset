@@ -18,9 +18,9 @@ MonoBehaviour:
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
     dialogueLine: Escuche algo?
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
-    dialogueLine: "No... debe de ser el cansancio. Llevo demasiado tiempo aqu\xED"
+    dialogueLine: No... debe de ser el cansancio. Llevo demasiado tiempo aqui
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
-    dialogueLine: "...Mam\xE1?"
+    dialogueLine: ...Mama?
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
     dialogueLine: "No, no puede ser. Ella ya no est\xE1..."
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}

@@ -18,13 +18,12 @@ MonoBehaviour:
 
       "W",  "S",  "D",  "A"  y  "espacio" o las felchitas '
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
-    dialogueLine: "Otro d\xEDa sin ti, mam\xE1\u2026 Volv\xED a tu bosque favorito
-      porque es el \xFAnico lugar donde todav\xEDa siento que est\xE1s cerca. Desde
-      que te fuiste, todo perdi\xF3 su sentido\u2026 Ojal\xE1 pudiera volver a abrazarte
-      una \xFAltima vez."
+    dialogueLine: "Otro d\xEDa sin ti, mama\u2026 Volvi a tu bosque favorito porque
+      es el unico lugar donde todavia siento que estas cerca. Desde que te fuiste,
+      todo perdio su sentido\u2026 Ojala pudiera volver a abrazarte una ultima vez."
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
     dialogueLine: ehhhh????...
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
-    dialogueLine: "\xBFY esta carta?..."
+    dialogueLine: Y esta carta?...
   - <Character>k__BackingField: {fileID: 11400000, guid: fb18f3abb18647147b148517b05d757c, type: 2}
     dialogueLine: Acercate a la carta y pulsa la "E"

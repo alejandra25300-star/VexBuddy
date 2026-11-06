@@ -74,7 +74,7 @@ public class EnemySlime1 : MonoBehaviour
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
 
         if (animator != null)
-            animator.SetFloat("Speed", 0);
+            animator.SetFloat("Speed", 27);
     }
 
     void Atacar()

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ffca166f8d1a0a4eaa625c64182c7d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410388
+  packageName: Crystal Caverns 2D Environment Pack
+  packageVersion: 1.0.0.1
+  assetPath: Assets/Gamelauncher Studio/Crystal Caverns 2D Environment Pack/Environment/Cave/props/checkpoint/checkpoint_active_0.controller
+  uploadId: 1002640

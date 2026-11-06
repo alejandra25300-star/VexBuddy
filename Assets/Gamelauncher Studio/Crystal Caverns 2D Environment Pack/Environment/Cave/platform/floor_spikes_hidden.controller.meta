@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d18d462a549cc1b4fb6f96621ca44490
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410388
+  packageName: Crystal Caverns 2D Environment Pack
+  packageVersion: 1.0.0.1
+  assetPath: Assets/Gamelauncher Studio/Crystal Caverns 2D Environment Pack/Environment/Cave/platform/floor_spikes_hidden.controller
+  uploadId: 1002640
